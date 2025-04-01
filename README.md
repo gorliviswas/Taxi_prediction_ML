@@ -1,4 +1,5 @@
-###Taxi Fare Prediction Using Linear Regression 🚖
+Taxi Fare Prediction Using Linear Regression 🚖
+
 This project aims to predict taxi fares based on various factors such as pickup location, drop-off location, and trip distance using Linear Regression. The goal is to build a model that can accurately predict the fare for a given taxi trip.
 
 🚀 Technologies Used
